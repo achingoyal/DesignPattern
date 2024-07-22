@@ -1,4 +1,4 @@
-package factorydesign;
+package factory_design_pattern;
 
 public class JavaDeveloper implements Employee{
 

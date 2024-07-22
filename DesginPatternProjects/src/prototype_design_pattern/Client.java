@@ -1,4 +1,4 @@
-package prototypedesignpattern;
+package prototype_design_pattern;
 
 public class Client {
 
