@@ -1,4 +1,4 @@
-package BuilderDesignPattern;
+package builderdesignpattern;
 
 public class User {
 
